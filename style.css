@@ -1,0 +1,28 @@
+.name{
+    color: rgb(11, 11, 122);
+    text-align: center;
+}
+.address-1{
+    color: rgb(11, 11, 122);
+    text-align: center;
+}
+.address-2{
+    color: rgb(11, 11, 122);
+    text-align: center;
+}
+
+
+
+.geico {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.insurance-quote-geico {
+    color: rgb(11, 11, 122);
+    text-align: center;
+}
+
+
